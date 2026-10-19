@@ -53,3 +53,7 @@ Game rules never depend on animation timing. The engine returns the new state al
 ## Credits
 
 Inspired by [2048](https://github.com/gabrielecirulli/2048) by Gabriele Cirulli, which was itself based on 1024 by Veewo Studio. All artwork, colours and code in this repository are original.
+
+## Standalone download
+
+`TwentyFourEight.html` is the whole game in one offline file, with the JavaScript, CSS and font all inlined. Download it and open it in any browser.
