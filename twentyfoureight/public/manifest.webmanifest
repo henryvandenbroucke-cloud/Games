@@ -1,0 +1,12 @@
+{
+  "name": "TwentyFourEight",
+  "short_name": "2048",
+  "description": "Merge. Think. Reach 2048.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF8F3",
+  "theme_color": "#FAF8F3",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
